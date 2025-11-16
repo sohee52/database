@@ -1,0 +1,12 @@
+[submodule "db-kjw-py"]
+	path = db-kjw-py
+	url = https://github.com/sohee52/db-kjw-py.git
+	branch = main
+[submodule "db-kjw-java"]
+	path = db-kjw-java
+	url = https://github.com/sohee52/db-kjw-java.git
+	branch = main
+[submodule "db-kjw-sql"]
+	path = db-kjw-sql
+	url = https://github.com/sohee52/db-kjw-sql.git
+	branch = main
