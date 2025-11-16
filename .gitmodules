@@ -10,3 +10,15 @@
 	path = db-kjw-sql
 	url = https://github.com/sohee52/db-kjw-sql.git
 	branch = main
+[submodule "db-kyh-start"]
+	path = db-kyh-start
+	url = https://github.com/sohee52/db-kyh-start.git
+	branch = main
+[submodule "db-kyh-basic"]
+	path = db-kyh-basic
+	url = https://github.com/sohee52/db-kyh-basic.git
+	branch = main
+[submodule "db-kyh-design1"]
+	path = db-kyh-design1
+	url = https://github.com/sohee52/db-kyh-design1.git
+	branch = main
