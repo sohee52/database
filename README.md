@@ -1,1 +1,16 @@
 # database
+
+## 학교 수업
+### 데이터베이스
+| Category | Repository | Visibility |
+|---------|------------|------------|
+| SQL | `db-kjw-sql` | private |
+| 자바 JDBC | `db-kjw-java` | private |
+| 파이썬 DB-API | `db-kjw-py` | private |
+
+## 인프런 김영한 강의
+| Category | Repository | Visibility |
+|---------|------------|------------|
+| 입문편 | `db-kyh-start` | private |
+| 기본편 | `db-kyh-basic` | private |
+| 설계 1편 | `db-kyh-design1` | private |
