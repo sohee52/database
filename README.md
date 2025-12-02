@@ -4,7 +4,7 @@
 ### 데이터베이스
 | Category | Repository | Visibility |
 |---------|------------|------------|
-| SQL | `db-kjw-sql` | private |
+| SQL, Design, DBMS Internals | `db-kjw` | private |
 | 자바 JDBC | `db-kjw-java` | private |
 | 파이썬 DB-API | `db-kjw-py` | private |
 
