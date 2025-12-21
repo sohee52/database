@@ -1,12 +1,13 @@
 # database
 
 ## 학교 수업
-### 데이터베이스
+- 외부 repository
+
 | Category | Repository | Visibility |
 |---------|------------|------------|
-| SQL, Design, DBMS Internals | `db-kjw` | public |
-| 자바 JDBC | `db-kjw-java` | public |
-| 파이썬 DB-API | `db-kjw-py` | public |
+| SQL, Design, DBMS Internals | [db-kjw](https://github.com/sohee52/db-kjw) | public |
+| 자바 JDBC | [db-kjw-java](https://github.com/sohee52/db-kjw-java) | public |
+| 파이썬 DB-API | [db-kjw-py](https://github.com/sohee52/db-kjw-py) | public |
 
 ## 인프런
 ### 김영한 강의
@@ -17,11 +18,10 @@
 | 설계 1편 | `db-kyh-design1` | private |
 
 ### 박재성 강의
-- 외부 repository
 
 | Category | Repository | Visibility |
 |---------|------------|------------|
-| 설계 입문/실전 | [db-pjs-design](https://github.com/sohee52/db-pjs-design) | public |
+| 설계 입문/실전 | `db-pjs-design` | public |
 
 ## SQL
 - 외부 repository
