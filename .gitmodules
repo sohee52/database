@@ -6,10 +6,6 @@
 	path = db-kjw-java
 	url = https://github.com/sohee52/db-kjw-java.git
 	branch = main
-[submodule "db-kjw"]
-	path = db-kjw
-	url = https://github.com/sohee52/db-kjw.git
-	branch = main
 [submodule "db-kyh-start"]
 	path = db-kyh-start
 	url = https://github.com/sohee52/db-kyh-start.git
