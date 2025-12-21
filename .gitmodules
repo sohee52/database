@@ -10,3 +10,7 @@
 	path = db-kyh-design1
 	url = https://github.com/sohee52/db-kyh-design1.git
 	branch = main
+[submodule "db-pjs-design"]
+	path = db-pjs-design
+	url = https://github.com/sohee52/db-pjs-design.git
+	branch = main
